@@ -1,0 +1,2 @@
+export const DETAILMOVIE = 'DETAILMOVIE';
+export const MODALACTION = 'MODALACTION';
